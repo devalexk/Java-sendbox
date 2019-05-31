@@ -8,7 +8,8 @@ import static org.junit.Assert.*;
  */
 public class MathTest {
 
-    private static final double delta = .001;
+    
+    private static final double delta = .0001;
 
     @BeforeClass
     public static void beforeClass() {
